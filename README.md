@@ -2,6 +2,7 @@
 
 ### https://github.com/shwetha-ravindra/Tableau---Sankey-chart-/assets/166117057/49c3670c-80e9-4884-b8ad-5a684b102e4d
 
+https://public.tableau.com/app/profile/shwetha.r3603/viz/Sankey_17138674037380/Dashboard1?publish=yes
 ![Dashboard 1](https://github.com/shwetha-ravindra/Tableau---Sankey-chart-/assets/166117057/5c0cabb9-d237-4ba4-82e4-6e5e9571fb43)
 
 Let's delve into the insights gleaned from our Sankey chart:
